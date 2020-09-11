@@ -7,6 +7,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("profe enserio que su clase es la mas dificil");
+            Console.WriteLine("con el tiempo le entenderemos");
+        }
+     
         }
     }
-}
+
